@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" width="420" height="420">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6eefb"/><stop offset="1" stop-color="#e3d2f4"/></linearGradient></defs>
+<rect width="420" height="420" rx="24" fill="url(#g)"/>
+<ellipse cx="60" cy="70" rx="40" ry="16" transform="rotate(-25 60 70)" fill="#f0c6df" opacity="0.8"/><ellipse cx="370" cy="60" rx="34" ry="13" transform="rotate(35 370 60)" fill="#c9a6e8" opacity="0.6"/><ellipse cx="390" cy="380" rx="46" ry="18" transform="rotate(-15 390 380)" fill="#ffffff" opacity="0.7"/><ellipse cx="40" cy="360" rx="30" ry="12" transform="rotate(40 40 360)" fill="#f0c6df" opacity="0.6"/>
+<rect x="70" y="120" width="280" height="190" rx="16" fill="#fff" stroke="#d9c4f2" stroke-width="3"/>
+<rect x="70" y="120" width="280" height="34" rx="16" fill="#e6d6f5"/><rect x="70" y="140" width="280" height="14" fill="#e6d6f5"/>
+<circle cx="92" cy="137" r="6" fill="#f3a8c4"/><circle cx="112" cy="137" r="6" fill="#f6d68a"/><circle cx="132" cy="137" r="6" fill="#a9dcb0"/>
+<g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15" fill="#8d76ad">
+<text x="90" y="186"><tspan fill="#b48fd9">$</tspan> whoami</text>
+<text x="90" y="212" fill="#6f5f8a">devlsj</text>
+<text x="90" y="238"><tspan fill="#b48fd9">$</tspan> cat now.txt</text>
+<text x="90" y="264" fill="#6f5f8a">eBPF · kernel · security</text>
+<text x="90" y="290"><tspan fill="#b48fd9">$</tspan> <tspan fill="#c9a6e8">▌</tspan></text>
+</g>
+</svg>
