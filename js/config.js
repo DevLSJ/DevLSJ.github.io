@@ -70,7 +70,7 @@ window.SITE = {
     "comment-guardian": { title: "BLEP competition",       type: "Competition entry" },
     "CSW_Commentary":   { title: "Reading notes",          type: "Writing",          stack: "Markdown" },
   },
-  hiddenRepos: ["DevLSJ"],   // profile-README repo and anything else to keep off the feed
+  hiddenRepos: ["DevLSJ", "DevLSJ.github.io"],   // profile-README repo, this site, and anything else to keep off the feed
   hideForks: true,
 
   langColors: {
