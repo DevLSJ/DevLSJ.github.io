@@ -78,7 +78,7 @@
   function cardHTML(r) {
     const m = S.repoMeta[r.name] || {};
     const lang = r.language || "—";
-    const color = S.langColors[r.language] || "#dcc7f1";
+    const color = S.langColors[r.language] || "#bfe0f6";
     const title = m.title || (r.description ? r.description.slice(0, 32) : "public repository");
     const cover = m.cover || "";                  // optional per-repo art, e.g. repoMeta["x"].cover = "assets/covers/x.png"
     const pushed = r.pushed_at ? fmtShort(r.pushed_at) : "";

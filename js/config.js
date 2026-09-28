@@ -36,7 +36,7 @@ window.SITE = {
 
   // "Best Friends" box → tech stack. pill = relationship label, color = avatar circle.
   stack: [
-    { name: "Kotlin",     handle: "@android",      pill: "daily",    color: "#b79cf0" },
+    { name: "Kotlin",     handle: "@android",      pill: "daily",    color: "#a4b4ee" },
     { name: "Java",       handle: "@spring",       pill: "daily",    color: "#e8b088" },
     { name: "Python",     handle: "@fastapi",      pill: "daily",    color: "#9fbde6" },
     { name: "TypeScript", handle: "@react",        pill: "daily",    color: "#8fc0ec" },
@@ -74,8 +74,8 @@ window.SITE = {
   hideForks: true,
 
   langColors: {
-    Kotlin: "#b79cf0", Java: "#e8b088", Python: "#9fbde6", TypeScript: "#8fc0ec", JavaScript: "#f0d78a",
-    C: "#b8b3c2", "C++": "#e2a0c0", Shell: "#a9d29a", HTML: "#f0a58a", CSS: "#a99ce8", Go: "#8fd0e6", Rust: "#e0b090",
+    Kotlin: "#a4b4ee", Java: "#e8b088", Python: "#9fbde6", TypeScript: "#8fc0ec", JavaScript: "#f0d78a",
+    C: "#b8b3c2", "C++": "#a8c4e6", Shell: "#a9d29a", HTML: "#f0a58a", CSS: "#9db8e8", Go: "#8fd0e6", Rust: "#e0b090",
   },
 
   footer: "DevLSJ profile layout · inspired by classic tumblr themes · built with plain html, css and the github api",

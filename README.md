@@ -9,7 +9,7 @@ Plain HTML/CSS/JS, no build step.
 | What | Where |
 | --- | --- |
 | Name, bio, nav links, tabs, stack list, obsessions, about text, per-repo card copy | `js/config.js` |
-| Colors, fonts, spacing | `css/style.css` (`:root` tokens at the top) |
+| Colors, fonts, spacing | `css/style.css` (`:root` tokens at the top); placeholder art colors in `scripts/gen_placeholders.py` |
 | Banner art (1200×480+) | drop `assets/banner.jpg` — the pastel placeholder shows until then |
 | Avatar (square) | drop `assets/avatar.png` — falls back to `assets/avatar-placeholder.svg` |
 | Illustration beside "about me" | drop `assets/about.png` — falls back to `assets/about-placeholder.svg` |
